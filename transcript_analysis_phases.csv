@@ -1,0 +1,6 @@
+phase,start_time,end_time,turns,total_words,avg_words_per_turn,questions,exclamations,unique_speakers,dominant_speaker
+1,0.0,304.0,16,362,22.625,9,0,2,Meera
+2,304.0,608.0,13,264,20.307692307692307,9,0,2,Arjun
+3,608.0,912.0,12,219,18.25,5,0,2,Arjun
+4,912.0,1216.0,14,218,15.571428571428571,4,0,2,Arjun
+5,1216.0,1520.0,12,132,11.0,2,0,3,Arjun

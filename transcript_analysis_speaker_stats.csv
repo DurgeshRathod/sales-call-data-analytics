@@ -1,0 +1,4 @@
+speaker,turns,total_duration,avg_duration,std_duration,total_words,avg_words,std_words,total_chars,avg_chars,questions,exclamations,word_percentage,time_percentage,words_per_second
+Arjun,33,787.0,23.85,3.76,692,20.97,6.74,4382,132.79,29,0,57.9,52.9,0.88
+Meera,33,680.5,20.62,4.94,503,15.24,10.24,3225,97.73,0,0,42.1,45.8,0.74
+Small talk as both smile and exchange pleasantries before leaving the call.,1,19.5,19.5,,0,0.0,,0,0.0,0,0,0.0,1.3,0.0
